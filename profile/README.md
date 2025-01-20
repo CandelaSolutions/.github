@@ -2,6 +2,6 @@
 
 This is the Candela Solutions GitHub account. Here you can find latest versions of all of our products.
 
-| ![](profile/brandlogos/filament/1.png) | ![](profile/brandlogos/orelo/1.png) | ![](profile/brandlogos/tinydungeon/1.png) |
-| --------------------------------- | ------------------------------ | ------------------------------------ |
-|                                   |                                |                                      |
+| ![](icons/arcade1.png) | ![](icons/filament1.png) | ![](icons/harbinger1.png) | ![](icons/orelo1.png) | ![](icons/tinydungeon1.png) |
+| ---------------------- | ------------------------ | ------------------------- | --------------------- | --------------------------- |
+|                        |                          |                           |                       |                             |
