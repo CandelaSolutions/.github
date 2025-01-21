@@ -27,9 +27,7 @@ jobs:
       - name: Fetch Filament External Markdown
         run: |
           curl -o external-file.md https://rawcdn.githack.com/CandelaSolutions/filament/f3e9603c8f5701bc183b2d2c0145a72a925c8d8d/README.md
-          echo -e "<blockquote>" >> profile/products/filament.md
           cat external-file.md >> profile/products/filament.md
-          echo -e "</blockquote>" >> profile/products/filament.md
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
